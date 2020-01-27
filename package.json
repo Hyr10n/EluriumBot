@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "projetEluBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hyr10n/EluriumBot.git",
+  "author": "Hyr1on",
+  "license": "MIT"
 }
